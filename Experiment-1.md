@@ -195,7 +195,7 @@ The LED connected to **GPIO 2 of the ESP32** was successfully blinked at a frequ
 6. Verify the circuit connections before powering the ESP32.
 
 
-![Alt text]()
+![CIRCUIT DIAGRAM](https://github.com/MAdithyaMenon/IOT-LAB-Experiment-/blob/main/exp%201.png?raw=true)
 ---
 
 

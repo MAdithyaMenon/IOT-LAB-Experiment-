@@ -194,6 +194,8 @@ The LED connected to **GPIO 2 of the ESP32** was successfully blinked at a frequ
 5. Do not apply voltages higher than the GPIO pin's permitted level.
 6. Verify the circuit connections before powering the ESP32.
 
+
+![Alt text]()
 ---
 
 
